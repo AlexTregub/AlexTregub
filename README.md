@@ -1,4 +1,4 @@
-### Hi, I'm Alexander Sergiy Tregub
+### Hi, I'm Alexander S. Tregub
 - Undergraduate Student at Kent State University, expected graduation after Spring 2026
 - Double Major: Applied Mathematics, Computer Science
 - Used Languages & Tools: C, C++, MIPS assembly, R, Python, MatLab, Mathematica, LaTeX
